@@ -9,6 +9,8 @@ public class Principal {
 
   
     public static void main(String[] args) {
+        System.out.println("Hola Mundo - Soy Herberth");
+        System.out.println("Estoy en kinal - 2026046");
         System.out.println("Hola Mundo - Soy Jafeth");
         System.out.println("Estoy en kinal -2026078");     
         System.out.println("Hola Mundo - soy Angel");
