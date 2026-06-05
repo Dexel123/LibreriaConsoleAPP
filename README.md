@@ -4,6 +4,7 @@
 ## DESCRIPCION
 
 ## ESTRUCTURA DEL PROYECTO
+Es una monolitica,mvc y dao sigue cumpliendo el SOLID, Responsabilidad Unica
 
 LibreriaConsoleApp
     |---src/org/angelmolina
@@ -16,6 +17,10 @@ LibreriaConsoleApp
         |-- view
             |--- MenuPrincipal.java
             |--- CategoriaView.java
+        |-- util
+            |--- Conexion.java
+
+
 
 ##Autor
 /Angel Molina |Fundacion Kinal/
